@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="SpaceCadet">#101010</color>
+    <color name="Indigo">#101010</color>
+    <color name="Sandytan">#FFFFFF</color>
+</resources>
